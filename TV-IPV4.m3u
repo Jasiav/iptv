@@ -1,7 +1,7 @@
 #EXTM3U url-logos="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/"
 
-#EXTINF:-1 tvg-id="heilongjiangdushi" tvg-logo="https://epg.pw/media/images/channel/2022/06/01/large/20220601000243569800_11.jpg",黑龙江都市[ipv6]
-https://epg.pw/stream/7f0506c053e2d595749fd2c67c83e4abd7b5115ab0d735ae6eb8519dd9624bf6.m3u8
+#EXTINF:-1 tvg-id="heilongjiangdushi" tvg-logo="https://epg.pw/media/images/channel/2022/06/01/large/20220601000243569800_11.jpg",黑龙江都市
+http://39.134.65.141/PLTV/88888888/224/3221225969/1.m3u8
 
 #EXTINF:-1 tvg-id="heilongjiang" tvg-logo="heilongjiang.png",黑龙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
